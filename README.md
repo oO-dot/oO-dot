@@ -111,7 +111,7 @@
 
 ###
 
-<h2 align="left">Контейнеризация и виртуализация:</h2>
+<h2 align="left">Containerization and virtualization:</h2>
 
 ###
 
@@ -121,7 +121,7 @@
 
 ###
 
-<h2 align="left">Среда разработки: IntelliJ IDEA</h2>
+<h2 align="left">Development environment:</h2>
 
 ###
 
