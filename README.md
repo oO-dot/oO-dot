@@ -25,7 +25,7 @@
 
 ###
 
-<h2 align="left">Backend languages:</h2>
+<h2 align="left">Backend:</h2>
 
 ###
 
