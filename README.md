@@ -83,9 +83,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=hibernate" height="40" alt="hibernate logo"  />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg](https://miro.medium.com/v2/resize:fit:720/format:webp/1*nv2OUhfT-faVH52acTTAEQ.png)" height="40" alt="mysql logo"  />
-  
-  
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*nv2OUhfT-faVH52acTTAEQ.png" height="40" alt="mysql logo"  />
 </div>
 
 ###
