@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">🚀 Обо мне <br>🎓 Создал CRUD App (Spting Boot, Spring MVC(DAO + DTO), Spring Data JPA(ORM Hibernate), PostgreSQL, REST API) <br>💻 Самостоятельно поднял 4 микросервиса на Kafka <br>🎓 Проходил курсы на JavaRush, Stepik и Udemy</h3>
+<h3 align="center">🚀 Обо мне <br> Создал тг-бота для продажи ресурса по подписке и занесение данных в БД + создание уникального токена для каждого user (Telegram Bots API, SpringBoot, Spring Data Jpa, Spring AOP, Spring WEB, PostgreSQL, Tuna(для создания вебхука, аналог Ngrok)) () <br>🎓 Создал CRUD App (Spting Boot, Spring MVC(DAO + DTO), Spring Data JPA(ORM Hibernate), PostgreSQL, REST API) <br>💻 Самостоятельно поднял 4 микросервиса на Kafka <br>🎓 Проходил курсы на JavaRush, Stepik и Udemy</h3>
 
 ###
 
