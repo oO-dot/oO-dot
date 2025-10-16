@@ -57,6 +57,7 @@
     <code>PostgreSQL</code> <code>CloudFlare DNS</code> <code>VPN Interfaces</code>
     <code>Vless + Reality</code> <code>Proxy</code> <code>Tuna Webhooks</code>
   </p>
+  <p><strong>Ссылка:</strong> https://github.com/oO-dot/VPN_TG_BOT</p>
   <ul>
     <li>Telegram бот для управления VPN-подписками с полуавтоматической оплатой</li>
     <li>Индивидуальные чаты для каждого сервиса с администраторами</li>
