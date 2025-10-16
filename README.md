@@ -14,10 +14,10 @@
   <h3>💳 Bank Cards Management System</h3>
   <p>
     <strong>Технологии:</strong> 
-    <code>Java 17</code> <code>Spring Boot 3</code> <code>Spring MVC</code> <code>Spring Security</code> 
-    <code>Spring Data JPA</code> <code>JWT</code> <code>PostgreSQL</code> <code>Hibernate</code> 
-    <code>Liquibase</code> <code>Docker</code> <code>Docker Compose</code> <code>Swagger/OpenAPI</code>
-    <code>AES-256</code> <code>REST API</code> <code>Maven</code> <code>Lombok</code> <code>MapStruct</code>
+    <code>Java 17</code> <code>Spring Boot 3</code> <code>Spring Security + JWT</code> 
+    <code>Spring Data JPA</code> <code>PostgreSQL + Hibernate</code> <code>Liquibase</code> 
+    <code>Docker + Docker Compose</code> <code>Swagger/OpenAPI</code> <code>AES-256</code>
+    <code>REST API</code> <code>Maven</code> <code>Lombok</code> <code>MapStruct</code>
   </p>
   <p><strong>Ссылка:</strong> https://github.com/oO-dot/bank-cards-management-system</p>
   <ul>
@@ -34,10 +34,9 @@
   <h3>🌐 Spring Cloud Microservices Architecture</h3>
   <p>
     <strong>Технологии:</strong> 
-    <code>Spring Cloud</code> <code>Spring Boot</code> <code>API Gateway</code> <code>Eureka Server</code> 
-    <code>Config Server</code> <code>Microservices</code> <code>Service Discovery</code> 
-    <code>Load Balancer</code> <code>Spring Boot Actuator</code> <code>GitHub Config</code>
-    <code>REST API</code> <code>Gradle</code> <code>Docker</code> <code>Centralized Configuration</code>
+    <code>Spring Cloud</code> <code>API Gateway + Load Balancer</code> <code>Eureka Server</code> 
+    <code>Config Server</code> <code>Service Discovery</code> <code>Spring Boot Actuator</code>
+    <code>GitHub Config</code> <code>REST API</code> <code>Gradle</code> <code>Docker</code>
   </p>
   <p><strong>Ссылка:</strong> https://github.com/oO-dot/spring-micro-demo</p>
   <ul>
@@ -55,15 +54,13 @@
   <p>
     <strong>Технологии:</strong> 
     <code>Telegram Bots API</code> <code>Spring Boot</code> <code>Spring Data JPA</code> 
-    <code>PostgreSQL</code> <code>CloudFlare</code> <code>DNS Management</code> <code>CNAME</code>
-    <code>AAAA</code> <code>MX</code> <code>TXT</code> <code>NS</code> <code>V2RayTun</code>
-    <code>Remnawave</code> <code>Marzban</code> <code>3X-UI</code> <code>Vless + Reality</code>
-    <code>Proxy</code> <code>Load Balancing</code> <code>Tuna Webhooks</code>
+    <code>PostgreSQL</code> <code>CloudFlare DNS</code> <code>VPN Interfaces</code>
+    <code>Vless + Reality</code> <code>Proxy</code> <code>Tuna Webhooks</code>
   </p>
   <ul>
     <li>Telegram бот для управления VPN-подписками с полуавтоматической оплатой</li>
     <li>Индивидуальные чаты для каждого сервиса с администраторами</li>
-    <li>Комплексная настройка инфраструктуры в CloudFlare (все типы DNS-записей)</li>
+    <li>Комплексная настройка инфраструктуры в CloudFlare (DNS, прокси)</li>
     <li>Интеграция с различными VPN-интерфейсами и настройка отказоустойчивости</li>
   </ul>
 </div>
@@ -74,10 +71,9 @@
   <h3>🔄 Apache Kafka Microservices</h3>
   <p>
     <strong>Технологии:</strong> 
-    <code>Apache Kafka</code> <code>Spring Kafka</code> <code>Microservices</code> 
-    <code>Event-Driven Architecture</code> <code>Producers/Consumers</code> 
-    <code>Topic Partitioning</code> <code>Replication</code> <code>Fault Tolerance</code>
-    <code>Message Broker</code> <code>Async Communication</code> <code>Docker</code>
+    <code>Apache Kafka</code> <code>Spring Kafka</code> <code>Event-Driven Architecture</code> 
+    <code>Producers/Consumers</code> <code>Topic Management</code> <code>Fault Tolerance</code>
+    <code>Docker</code>
   </p>
   <ul>
     <li>Кластер из 4 микросервисов с коммуникацией через Apache Kafka</li>
