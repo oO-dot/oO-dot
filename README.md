@@ -73,8 +73,7 @@
   <p>
     <strong>Технологии:</strong> 
     <code>Apache Kafka</code> <code>Spring Kafka</code> <code>Event-Driven Architecture</code> 
-    <code>Producers/Consumers</code> <code>Topic Management</code> <code>Fault Tolerance</code>
-    <code>Docker</code>
+    <code>Producers/Consumers</code> <code>Topic Management</code> <code>Docker</code>
   </p>
   <p><strong>Ссылка:</strong> https://github.com/oO-dot/Product-Notifier-Kafka</p>
   <ul>
