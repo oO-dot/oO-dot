@@ -1,4 +1,4 @@
-<div align="center">
+--<div align="center">
   <h1>👨‍💻 Java Backend Developer</h1>
   
   <h3>Разработчик с опытом создания микросервисных архитектур<br>и распределенных систем на Spring Ecosystem</h3>
@@ -38,7 +38,7 @@
     <code>Config Server</code> <code>Service Discovery</code> <code>Spring Boot Actuator</code>
     <code>GitHub Config</code> <code>REST API</code> <code>Gradle</code> <code>Docker</code>
   </p>
-  <p><strong>Ссылка:</strong> https://github.com/oO-dot/spring-micro-demo</p>
+  <p><strong>Ссылка:</strong> https://github.com/oO-dot/spring-cloud-microservices</p>
   <ul>
     <li>Архитектура из 4 микросервисов: API Gateway, Eureka Server, Config Server</li>
     <li>Балансировка нагрузки между несколькими инстансами сервисов</li>
