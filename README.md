@@ -8,9 +8,9 @@
 
 <div align="center">
 
-## 🚀 ПРОЕКТЫ
-
 </div>
+
+## 🚀 ПРОЕКТЫ
 
 **💳 Bank Cards Management System**
 https://github.com/oO-dot/bank-cards-management-system
