@@ -6,26 +6,6 @@
 
 ###
 
-<div>
-  
-## 🛠 ТЕХНОЛОГИЧЕСКИЙ СТЕК
-
-**Backend:** Java 17+, Spring Boot 3, Spring Cloud, Spring MVC, Spring Security, Spring Data JPA, Spring AOP, Spring Scheduler
-
-**Базы данных:** PostgreSQL, Hibernate, Liquibase, JDBC, транзакции, индексы
-
-**Архитектура:** Microservices, REST API, API Gateway, Service Discovery, Event-Driven Architecture
-
-**Инфраструктура:** Docker, Docker Compose, CI/CD, Nginx, Linux, Apache Kafka, VirtualBox
-
-**Инструменты:** Maven, Gradle, Git, Swagger/OpenAPI, Postman, Lombok, MapStruct, IntelliJ IDEA
-
-**Логирование и мониторинг:** ELK Stack, Spring Boot Actuator
-
-</div>
-
-###
-
 <div align="center">
 
 ## 🚀 ПРОЕКТЫ
