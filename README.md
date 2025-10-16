@@ -76,6 +76,7 @@
     <code>Producers/Consumers</code> <code>Topic Management</code> <code>Fault Tolerance</code>
     <code>Docker</code>
   </p>
+  <p><strong>Ссылка:</strong> https://github.com/oO-dot/Product-Notifier-Kafka</p>
   <ul>
     <li>Кластер из 4 микросервисов с коммуникацией через Apache Kafka</li>
     <li>Producers/consumers для обработки событий между сервисами</li>
