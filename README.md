@@ -17,7 +17,8 @@
     <code>Java 17</code> <code>Spring Boot 3</code> <code>Spring Security + JWT</code> 
     <code>Spring Data JPA</code> <code>PostgreSQL + Hibernate</code> <code>Liquibase</code> 
     <code>Docker + Docker Compose</code> <code>Swagger/OpenAPI</code> <code>AES-256</code>
-    <code>REST API</code> <code>Maven</code> <code>Lombok</code> <code>MapStruct</code>
+    <code>REST API</code> <code>Maven</code> <code>Lombok</code> <code>MapStruct</code> 
+    <code>Prometheus</code> <code>Grafana</code>
   </p>
   <p><strong>Ссылка:</strong> https://github.com/oO-dot/bank-cards-management-system</p>
   <ul>
